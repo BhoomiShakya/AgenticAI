@@ -1,0 +1,11 @@
+openai
+python-dotenv
+yfinance
+packaging
+#it is tool which is specifically used by agent to do any kind of web search 
+duckduckgo-search 
+fastapi
+uvicorn
+#it is a open source lib hosted 
+groq
+phidata
